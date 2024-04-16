@@ -1,7 +1,9 @@
 ### Hi there ✨
 
-# About Me
-
+# Info
+- I'm a Full-Stack Developer.
+- I'm currently learning certain back-end technologies.
+- If you wish to contact me, simply click <a href="mailto:wisdomnwaka6@gmail.com"> <img src="icons/envelope-regular.svg"> </a>
 
 # Skills
 <div style="padding-bottom: 15px">
