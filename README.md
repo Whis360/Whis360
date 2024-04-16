@@ -15,7 +15,7 @@
 
 ---
 
-<img src="icons/2mue.gif" height="100" width="300">
+<img src="icons/2mue.gif" height="200" width="600">
 <br><br>
 <!--
 **Whis360/Whis360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
