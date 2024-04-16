@@ -17,8 +17,7 @@
 
 ---
 
-<!-- <img src="icons/fyMN.gif" width="1000"> -->
-<div style="padding-top:44.598%;position:relative;"><iframe src="https://gifer.com/embed/xK" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+<img src="icons/fyMN.gif" width="1000">
 <br><br>
 <!--
 **Whis360/Whis360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
