@@ -3,7 +3,7 @@
 # Info
 - I'm a Full-Stack Developer.
 - I'm currently learning certain back-end technologies.
-- If you wish to contact me, simply click <a href="mailto:wisdomnwaka6@gmail.com"> <img src="icons/envelope.svg" width="18" height="18" align="center"> </a>
+- If you wish to contact me, simply click <a href="mailto:wisdomnwaka6@gmail.com"> <img src="icons/envelope-regular.svg" width="18" height="18" align="center"> </a>
 
 # Skills
 <div style="padding-bottom: 15px">
